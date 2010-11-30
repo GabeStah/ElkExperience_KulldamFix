@@ -1,0 +1,26 @@
+------------------------------------------------------------------------
+r3 | elkano | 2010-11-29 11:45:56 +0000 (Mon, 29 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+   M /trunk/ElkExperience.lua
+   M /trunk/ElkExperience.toc
+   A /trunk/ElkExperienceOptions.lua
+
+added options to disable minimap icon
+------------------------------------------------------------------------
+r2 | elkano | 2010-11-02 13:56:23 +0000 (Tue, 02 Nov 2010) | 1 line
+Changed paths:
+   A /trunk/.pkgmeta
+   A /trunk/ElkExperience.lua
+   A /trunk/ElkExperience.toc
+
+initial commit, should be usable, no options yet though
+------------------------------------------------------------------------
+r1 | root | 2010-11-02 13:53:17 +0000 (Tue, 02 Nov 2010) | 1 line
+Changed paths:
+   A /branches
+   A /tags
+   A /trunk
+
+"elkexperience/mainline: Initial Import"
+------------------------------------------------------------------------

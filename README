@@ -1,0 +1,7 @@
+INSTALL:
+1. Download: https://github.com/downloads/GabeStah/ElkExperience_KulldamFix/ElkExperience.zip
+2. Unzip into World of Warcraft/Interface/Addons
+3. Run World of Warcraft and enjoy!
+
+USAGE:
+ElkExperience_KulldamFix is a slight modification to the ElkExperience addon by Elkano (http://www.wowace.com/addons/elkexperience/) that includes a few minor bug fixes dealing with total played time and session reset variables.
